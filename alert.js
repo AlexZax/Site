@@ -30,3 +30,5 @@ let isCheked =true,
     isClose = true;
 console.log(isCheked && isClose);
 console.log("123");
+console.log(typeof(" "));
+
